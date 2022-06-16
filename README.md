@@ -1,4 +1,4 @@
-# MuliplicationDrills
+# MultiplicationDrills
 
 This simple python script is meant to assist children with learning their times tables.  It provides an easy to use interface that allows the selection of a given multiplier and gives the user instant feedback around correctness and speed without the waste generated from using paper drills.
  
