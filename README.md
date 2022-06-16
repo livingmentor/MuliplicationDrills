@@ -1,2 +1,5 @@
 # MuliplicationDrills
+
+This simple python script is meant to assist children with learning their times tables.  It provides an easy to use interface that allows the selection of a given multiplier and gives the user instant feedback around correctness and speed without the waste generated from using paper drills.
  
+The program begins by selecting the mulitiplier.  The sequence generates a list of problems with a multiplicand (0-12) times the multiplier.  A multiplier of "all" generates all 169 problems within a 12 x 12 (including 0) times table.  Upon selecting a multiplier, a timer starts.  The timer displays the number of seconds taken to complete the drill.  During the drill, the user enters their guess for a given problem and presses the 'enter' key.  The program indicates the correctness of the guess.  If the guess is incorrect, the correct answer is displayed.  Upon completion of the drill, the program displays the problems the user got wrong during the drill.  Afterwards, the program prompts the user to try again.
